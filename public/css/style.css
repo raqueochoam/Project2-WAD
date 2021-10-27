@@ -1,0 +1,45 @@
+body{
+    background-color: #A2D2FF;
+    font-family: 'Space Mono', monospace;
+    color: black;
+    text-align: left;
+}
+
+img{
+
+    text-align: center;
+    font-family: spartan;
+}
+
+h1.title{
+    text-align: center;
+    color: white;
+    text-shadow:3px 3px 3px black;
+    font-size: 100px;
+}
+
+h6{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.btn2{
+    background-color: #C3ECC2;
+    text-align: right;
+    border-color: #C3ECC2;
+}
+
+.btn2:hover{
+    background-color: #95e694;
+    border-color: #C3ECC2;
+}
+
+.btn3{
+    background-color: #FF865E;
+    text-align: right;
+    margin: #FF865E;
+}
+
